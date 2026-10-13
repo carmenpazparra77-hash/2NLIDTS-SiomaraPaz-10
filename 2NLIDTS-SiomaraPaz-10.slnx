@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2NLIDTS-SiomaraPaz-10/2NLIDTS-SiomaraPaz-10.vcxproj" />
+</Solution>
